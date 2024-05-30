@@ -4,3 +4,4 @@ val_set/
 training_checkpoints/
 logs/
 .ipynb_checkpoints/
+memo.txt
