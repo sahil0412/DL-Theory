@@ -5,3 +5,5 @@ training_checkpoints/
 logs/
 .ipynb_checkpoints/
 memo.txt
+my_mnist_model.h5
+mnist_model_0_to_4.h5
